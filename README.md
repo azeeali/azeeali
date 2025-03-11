@@ -2,8 +2,8 @@
 <h3 align="left">A digier exploring the depths of digital world.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imarifatsultan&label=Profile%20views&color=orange&style=flat" alt="imarifatsultan" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imarifatsultan"  alt="imarifatsultan" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imarifatsultan&label=Profile%20views&color=orange&style=flat" alt="azeeali" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azeeali"  alt="imarifatsultan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -26,7 +26,7 @@
 
 ### 🔥 Streak Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imarifatsultan" alt="imarifatsultan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azeeali" alt="azeeali" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
